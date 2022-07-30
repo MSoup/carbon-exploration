@@ -1,6 +1,6 @@
 # carbon-exploration
 
-# solicited duck pics :D
+## solicited duck pics :D
 
 Some changes from 7/30 - 11:45 am
 
@@ -8,7 +8,7 @@ Some changes from 7/30 - 11:45 am
 
 No idea how long this project will last.
 
-# solicited duck pics :D
+## solicited duck pics :D
 
 ```py
 def sayHello():
