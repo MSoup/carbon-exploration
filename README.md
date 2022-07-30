@@ -1,2 +1,2 @@
 # carbon-exploration
-# dickbutts
+# solicited duck pics :D
